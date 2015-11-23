@@ -1,3 +1,13 @@
+#scoreboard {
+	width: 500px;
+	margin: 1em auto;
+}
+
+#winMessage {
+	font-size: 7.5em;
+	text-align: center;
+}
+
 #board {
 	height: 500px;
 	width: 500px;
@@ -33,5 +43,10 @@
 }
 
 .tile:hover {
-	background-color: skyblue;
+	background-color: #E0F5FF;
+}
+
+#controls {
+	width: 500px;
+	margin: auto;
 }
